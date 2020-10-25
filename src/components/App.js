@@ -1,7 +1,7 @@
 import React from 'react'
 import unsplash from '../components/api/unsplash'
 import SearchBar from './SearchBar'
-import ImageList from './imageList'
+import ImageList from './ImageList'
 
 
 
